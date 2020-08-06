@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://kapil:kapilpowar@devcenter-ahxh9.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://kapil:kapilpowar@devcenter-ahxh9.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret"
 }
